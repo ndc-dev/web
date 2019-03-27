@@ -1,0 +1,56 @@
+@charset "utf-8"
+// 変数
+$width: 830px
+$gold: #BAAA75
+
+=mobile
+  @media screen and (max-width: 768px)
+    @content
+
+=tablet
+  @media screen and (max-width: 992px)
+    @content
+
+=pc
+  @media screen and (max-width: 1180px)
+    @content
+
+=ie10
+  @media all and (-ms-high-contrast:none)
+    @content
+    
+@import "reset"
+
+// ベース
+*
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+
+
+html
+  font-size: 62.5%
+  background-color: #F7F7F7
+body
+  font-size: 1.5rem
+  line-height: 3.2rem
+  word-wrap: break-word
+  margin: 0
+  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif
+  font-weight: 500
+  font-style: nomal
+  -moz-osx-font-smoothing: grayscale
+  -webkit-font-smoothing: antialiased
+  color: #313131
+  +mobile
+    font-size: 1.4rem
+    line-height: 2.4rem
+.mb
+  display: none
+  +mobile
+    display: block
+.mb-none
+  +mobile
+    display: none
+
+@import "all"
