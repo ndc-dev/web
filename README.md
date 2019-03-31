@@ -11,6 +11,14 @@
 - [動作サンプル](https://ndc-api-beta.arukascloud.io/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
 
+## 日本十進分類法のIME辞書(2019/4/1公開)
+
+![スクリーンショット](doc/movie.gif) 
+
+活用事例として、データをもとにIMEの辞書ファイルを作成しました。
+
+- [GitHub](https://github.com/ndc-dev/ndc-ime-dic)
+
 ## スケジュール
 
 - 2019月4月 プロジェクト開始
