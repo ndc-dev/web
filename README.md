@@ -26,6 +26,11 @@
 
 #### Slackに参加しよう
 
+Code4Lib JapanのSlack内にてグループを立ち上げる予定です。ぜひご参加ください。
+
+http://wiki.code4lib.jp/wiki/C4ljp2018#Code4Lib_JAPAN_slack
+
+
 #### このページを編集する
 
 このページは[GitHub](https://github.com/ndc-dev/web)で管理されています。README.mdを編集してプルリクエストを送信することにより、ウェブページを更新できます。
