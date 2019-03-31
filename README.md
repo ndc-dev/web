@@ -8,6 +8,8 @@
 
 ## ベータ版API(2019/4/1公開)
 
+![スクリーンショット](img/api.png) 
+
 - [動作サンプル](https://ndc-api-beta.arukascloud.io/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
 
