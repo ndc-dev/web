@@ -36,7 +36,7 @@
 
 #### Slackに参加しよう
 
-Code4Lib JapanのSlack内にてグループを立ち上げる予定です。ぜひご参加ください。
+Code4Lib JAPANのSlack内にてグループを立ち上げる予定です。ぜひご参加ください。
 
 http://wiki.code4lib.jp/wiki/C4ljp2018#Code4Lib_JAPAN_slack
 
