@@ -6,7 +6,7 @@
 - 主要な言語のライブラリやREST-APIの提供など実用的に運用する
 - 開発成果はオープンソース・オープンデータとして公開する
 
-## ベータ版API(2019/3/1公開)
+## ベータ版API(2019/4/1公開)
 
 - [動作サンプル](https://ndc-api-beta.arukascloud.io/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
