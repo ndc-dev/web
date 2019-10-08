@@ -10,7 +10,7 @@
 
 ![スクリーンショット](img/api.png) 
 
-- [動作サンプル](https://ndc-api-beta.arukascloud.io/)
+- [動作サンプル](https://api-4pccg7v5ma-an.a.run.app/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
 
 ## 日本十進分類法のIME辞書(2019/4/1公開)
