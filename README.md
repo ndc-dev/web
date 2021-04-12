@@ -8,14 +8,14 @@
 
 ## ベータ版API(2019/4/1公開)
 
-![スクリーンショット](img/api.png) 
+![スクリーンショット](dist/img/api.png) 
 
 - [動作サンプル](https://api-4pccg7v5ma-an.a.run.app/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
 
 ## 日本十進分類法のIME辞書(2019/4/1公開)
 
-![スクリーンショット](img/dic.gif) 
+![スクリーンショット](dist/img/dic.gif) 
 
 活用事例として、データをもとにIMEの辞書ファイルを作成しました。
 
