@@ -44,5 +44,3 @@ http://wiki.code4lib.jp/wiki/C4ljp2018#Code4Lib_JAPAN_slack
 #### このページを編集する
 
 このページは[GitHub](https://github.com/ndc-dev/web)で管理されています。README.mdを編集してプルリクエストを送信することにより、ウェブページを更新できます。
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a68f14ab-1fe3-488b-b8ad-7adc160fb233/deploy-status)](https://app.netlify.com/sites/heuristic-wing-da54ea/deploys)

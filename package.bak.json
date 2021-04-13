@@ -1,0 +1,25 @@
+{
+  "name": "kurodaseisaku",
+  "version": "1.0.0",
+  "description": "kurodaseisaku",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "pug index.pug --out ./build/ --pretty"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-markdown": "^3.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "gulp-md-template": "^1.1.4",
+    "jstransformer-markdown-it": "^2.1.0",
+    "pug": "^3.0.1",
+    "pug-cli": "github:pugjs/pug-cli#master"
+  }
+}
