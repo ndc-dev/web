@@ -8,8 +8,6 @@
 
 ## ベータ版API(2019/4/1公開)
 
-![スクリーンショット](img/api.png) 
-
 - [動作サンプル](https://api-4pccg7v5ma-an.a.run.app/)
 - [GitHub](https://github.com/ndc-dev/python-parser)
 
