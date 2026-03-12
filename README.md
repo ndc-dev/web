@@ -13,8 +13,6 @@
 
 ## 日本十進分類法のIME辞書(2019/4/1公開)
 
-![スクリーンショット](img/dic.gif) 
-
 活用事例として、データをもとにIMEの辞書ファイルを作成しました。
 
 - [GitHub](https://github.com/ndc-dev/ndc-ime-dic)
