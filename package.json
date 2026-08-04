@@ -6,13 +6,12 @@
   "scripts": {
     "start": "run-s build:sass watch",
     "clean": "rimraf build",
-    "watch": "concurrently \"npm run watch:pug\" \"npm run watch:sass\" \"npm run watch:browser-sync\"",
-    "watch:browser-sync": "browser-sync start --config ./bs-config.js",
+    "watch": "concurrently \"npm run watch:pug\" \"npm run watch:sass\"",
     "watch:sass": "chokidar \"./sass/**/*.sass\" --command \"npm run build:sass\"",
-    "watch:pug": "npm run build:pug -- --watch --pretty",
+    "watch:pug": "npm run build:pug -- --watch",
     "build": "run-s clean build:**",
     "build:sass": "sass ./sass/index.sass ./build/index.css --style compressed --no-source-map",
-    "build:pug": "pug index.pug --out ./build/ --pretty",
+    "build:pug": "node build-pug.js --pretty",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,7 +26,6 @@
   "homepage": "https://github.com/deguchi/template#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.27",
-    "browser-sync": "^3.0.4",
     "chokidar-cli": "^3.0.0",
     "clean": "^4.0.2",
     "concurrently": "^9.2.1",
@@ -38,10 +36,7 @@
     "postcss-cli": "^11.0.1",
     "postcss-scss": "^4.0.9",
     "pug": "^3.0.3",
-    "pug-cli": "github:pugjs/pug-cli#master",
     "rimraf": "^6.1.3",
     "sass": "^1.98.0"
-  },
-  "resolutions": {
   }
 }
