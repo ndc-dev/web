@@ -24,6 +24,9 @@
     "url": "https://github.com/deguchi/template/issues"
   },
   "homepage": "https://github.com/deguchi/template#readme",
+  "overrides": {
+    "markdown-it": "^14.2.0"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.27",
     "chokidar-cli": "^3.0.0",
