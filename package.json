@@ -28,14 +28,14 @@
     "markdown-it": "^14.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.27",
+    "autoprefixer": "^10.5.4",
     "chokidar-cli": "^3.0.0",
     "jstransformer-markdown-it": "^3.0.0",
     "npm-run-all2": "^9.0.3",
-    "postcss": "^8.5.8",
+    "postcss": "^8.5.26",
     "postcss-cli": "^11.0.1",
     "postcss-scss": "^4.0.9",
-    "pug": "^3.0.3",
-    "sass": "^1.98.0"
+    "pug": "^3.0.4",
+    "sass": "^1.102.0"
   }
 }
