@@ -28,7 +28,7 @@
     "markdown-it": "^14.2.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.6.0",
+    "autoprefixer": "^10.6.1",
     "chokidar-cli": "^3.0.0",
     "jstransformer-markdown-it": "^3.0.0",
     "npm-run-all2": "^9.0.3",
